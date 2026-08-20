@@ -1,1 +1,10 @@
+[coot@weebbox ~]$ lolcat
+hello my name is Kady
+(it changes color)
+it is so nice to meet you
+i am using Nyarch Linux and using kitty as my terminal
 
+[coot@weebbox ~]$ nano hello-world.sh
+[coot@weebbox ~]$ chmod+x hello-world.sh
+[coot@ weebox ~]$ ./hello-world.sh
+Hello World!
