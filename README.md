@@ -1,2 +1,2 @@
-# archlinux (Now tumbleweed)
+# archlinux (Now leap)
 my course..
