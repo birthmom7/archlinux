@@ -1,2 +1,2 @@
-# archlinux (Now leap)
+#(Now leap)
 my course..
